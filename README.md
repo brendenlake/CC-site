@@ -1,19 +1,18 @@
-# Advancing AI through cognitive science - Spring 2019
+# Categories and Concepts - Fall 2019
 
 **Instructor**: [Brenden Lake](https://cims.nyu.edu/~brenden/)  
 Assistant Professor of Psychology and Data Science  
 New York University
 
 **Meeting time and location**:  
-Thursday 4-5:50 PM  
-Meyer Room 465 (4 Washington Place)
+Monday 2-3:50 PM  
+Meyer Room 851 (6 Washington Place)
 
 **Course numbers**:  
 PSYCH-GA 3405.001 (Psychology)  
-DS-GA 3001.013 (Data Science)
 
 **Office hours**:  
-Wednesdays 10-11:00 am, or by appointment; 60 5th Ave., Room 610
+Wednesdays 3:50-5pm, or by appointment; 6 Washington Place, Room 858
 
 **Summary**: Why are people smarter than machines? This course explores how the study of human intelligence can inform and improve artificial intelligence. We will look to cognitive science, with special focus on cognitive development, to help elucidate a set of "key ingredients" that are important components of human learning and thought, but are either underutilized or absent in contemporary artificial intelligence. Through readings and discussion, we will cover ingredients such as "intuitive physics," "intuitive psychology," "compositionality," "causality," and "learning-to-learn," although students will be encouraged to contribute other ingredients. Each ingredient will be discussed and compared from the perspectives of both cognitive science and AI, with readings drawn from both fields with roughly a 50/50 proportion.
 
