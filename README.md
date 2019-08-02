@@ -75,28 +75,53 @@ Please see below for the assigned readings for each class (to be read before cla
 
 **9/16 Prototype and exemplar theories**
 - Big Book; Chapter 2 (all) and Chapter 4 (pgs. XX-XX only)
+- Rosch, E., & Mervis, C. B. (1975). Family resemblances: Studies in the internal structure of categories. _Cognitive Psychology_, 7(4), 573-605.
+- Medin, D. L., & Schaffer, M. M. (1978).  Context theory of classification learning. _Psychological Review_, 85, 207-238.
 
 **9/23 The knowledge view (concepts as theories)**
 - Big Book; Chapter 6
+- Murphy, G. L., & Medin, D. L. (1985).  The role of theories in conceptual coherence. _Psychological Review_, 92, 289-316.
+- Barsalou, L. W. (1983). Ad hoc categories. _Memory & cognition_, 11(3), 211-227.
 
 **9/30 Computational models of category learning (part 1)**
+- Kruschke, J. L. (1992). ALCOVE: An exemplar-based connectionist model of category learning. _Psychological Review_, 99, 22-44.
+- Anderson, J. R. (1991). The adaptive nature of human categorization. _Psychological Review_, 98(3), 409.
+- Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
 
 **10/7 Computational models of category learning (part 2)**
+- Tenenbaum, J. B., and Griffiths, T. L. (2001). Generalization, similarity, and Bayesian inference. _Behavioral and Brain Sciences_, 24(4), 629-640.
+- Goodman, N. D., Tenenbaum, J. B., Feldman, J., & Griffiths, T. L. (2008). A rational analysis of rule‐based concept learning. _Cognitive Science_, 32(1), 108-154.
 
 **10/15 (Note special Tuesday time due to Fall recess) Computational models of category learning (part 3)**
+- Rehder, B. (2007). Essentialism as a generative theory of classification. In A. Gopnik, & L. Schultz (Eds.), _Causal learning: Psychology, philosophy, and computation_ (pp. 190-207). Oxford, England: Oxford University Press.
+- Rehder, B., & Murphy, G. L. (2003). A knowledge-resonance (KRES) model of category learning. _Psychonomic Bulletin & Review_, 10(4), 759-784.
 
 **10/21 Taxonomic organization and the basic level**
 - Big Book; Chapter 7
+- Rosch, E., Mervis, C. B., Gray, W. Johnson, D., & Boyes-Braem, P. (1976). Basic objects in natural categories. _Cognitive Psychology_, 8, 382-439.
+- Tanaka, J. W., & Taylor, M. (1991). Object categories and expertise: Is the basic level in the eye of the beholder?. _Cognitive Psychology_, 23(3), 457-482.
 
 **10/28 Category-based induction**
 - Big Book; Chapter 8
+- Osherson, D. N., Smith, E. E., Wilkie, O., Lopez, A., & Shafir, E. (1990). Category-based induction. _Psychological Review_, 97, 185-200.
+- Kemp, C., & Tenenbaum, J. B. (2009). Structured statistical models of inductive reasoning. _Psychological Review_, 116(1), 20.
 
 **11/4 Conceptual development**
 - Big Book; Chapters 9 and 10
+- Mandler, J. M., & McDonough, L. (1993). Concept formation in infancy. _Cognitive Development_, 8, 291-318.
+- Gelman, S. A. (2003). The essential child. Oxford: Oxford University Press. (excerpts only)
 
 **11/11 How categories influence perception**
+- Goldstone, R. L., & Hendrickson, A. T. (2010). Categorical perception. _Wiley Interdisciplinary Reviews: Cognitive Science_, 1(1), 69-78.
+- Goldstone, R. L. (1994). Influences of categorization on perceptual discrimination. _Journal of Experimental Psychology: General_, 123(2), 178.
+- Schyns, P. G., & Rodet, L. (1997). Categorization creates functional features. _Journal of Experimental Psychology: Learning, Memory, and Cognition_, 23(3), 681.
 
 **11/18 Unsupervised, semi-supervised, and active learning**
+- Ashby, F. G., Queller, S., & Berretty, P. M. (1999). On the dominance of unidimensional rules in unsupervised categorization. _Perception & Psychophysics_, 61(6), 1178-1199.
+- Lake, B. M. and McClelland, J. L. (2011). Estimating the strength of unlabeled information during semi-supervised learning. In _Proceedings of the 33rd Annual Conference of the Cognitive Science Society_.
+- Markant, D. B., & Gureckis, T. M. (2014). Is it better to select or to receive? Learning via active and passive hypothesis testing. _Journal of Experimental Psychology: General_, 143(1), 94.
 
-**11/25 Conceptual combination**
+**11/25 Conceptual combination and exemplar generation**
 - Big Book; Chapter 12
+- Murphy, G. L. (1988). Comprehending complex concepts. _Cognitive Science_, 12(4), 529-562.
+- Ward, T. B. (1994). Structured imagination: The role of category structure in exemplar generation. _Cognitive Psychology_, 27(1), 1-40.
