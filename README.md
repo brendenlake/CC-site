@@ -36,7 +36,9 @@ Grading will be based on the response papers (35%) and a final paper (65%). Clas
 Each week you will write a mini-paper (about 4-5 paragraphs or ~800 words) in which you will critique the week's readings, discuss an issue raised by it, or propose a new experiment based on it. The main purpose of these responses is to get you to: 1) do the reading on time so we can talk about it, and 2) think about the reading. In the responses, please focus on what issues are most important or interesting and to think about, and what questions are unresolved in the field. Do not give a list of minor questions or flaws. You may skip one weekly response, but any other missed ones will need to be made up. Post your response to the class Piazza page before class (the night before would be preferred). Your responses will be graded on a check-plus, check, or check-minus basis, with most responses receiving a check.
 
 ### Final paper
-The final paper should address one of the topics covered in the class in more detail. Alternatively, it could investigate a topic that was not covered in class. To make sure your paper is headed for success, you should write-up a proposal for your final paper due on TBD (one half page written). Submit via email with the file name lastname-cc-proposal.pdf (brenden@nyu.edu). You can also dicuss your topic with me during office hours. The paper should include a critical review of the literature, along with theoretical conclusions or suggestions for future research. I would expect papers to be about 12 pages long, though the exact length is not as important as the quality of thought the paper reveals. 
+The final paper will be due Monday 12/16. Submit via email with the file name lastname-cc-final.pdf
+
+The final paper should address one of the topics covered in the class in more detail. Alternatively, it could investigate a topic that was not covered in class. To make sure your paper is headed for success, you should write-up a proposal for your final paper due on Wednesday 11/13 (one half page written). Submit via email with the file name lastname-cc-proposal.pdf (brenden@nyu.edu). You can also dicuss your topic with me during office hours. The paper should include a critical review of the literature, along with theoretical conclusions or suggestions for future research. I would expect papers to be about 12 pages long, though the exact length is not as important as the quality of thought the paper reveals. 
 
 ## Piazza and course discussion  
 We will be using Piazza to post the weekly responses to the readings, and for class discussion in general.
@@ -64,8 +66,8 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/cla
 - 11/25 Conceptual combination
 - 12/2 TBD
 - 12/9 TBD
-- Final paper proposal due (TBD)
-- Final paper due (TBD)
+- Final paper proposal due (Wednesday 11/13)
+- Final paper due (Monday 12/16)
 
 ## Detailed schedule and readings
 Please see below for the assigned readings for each class (to be read before class). Papers are available for download on NYU Classes in the "Resources" folder.
