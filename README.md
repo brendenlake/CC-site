@@ -43,7 +43,7 @@ The final paper should address one of the topics covered in the class in more de
 ## Piazza and course discussion  
 We will be using Piazza to post the weekly responses to the readings, and for class discussion in general.
 
-The signup link for our Piazza page is available here ([piazza.com/nyu/fall2019/psychga3405001](piazza.com/nyu/fall2019/psychga3405001)).
+The signup link for our Piazza page is available here ([[https://piazza.com/nyu/fall2019/psychga3405001](https://piazza.com/nyu/fall2019/psychga3405001)).
 
 Once signed up, our class Piazza page is available here ([https://piazza.com/class/jyuo0qmz3o738c](https://piazza.com/class/jyuo0qmz3o738c)).
 
