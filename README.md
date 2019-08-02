@@ -1,3 +1,4 @@
+## General information
 **Instructor**: [Brenden Lake](https://cims.nyu.edu/~brenden/)  
 Assistant Professor of Psychology and Data Science  
 New York University  
