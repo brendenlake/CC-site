@@ -38,12 +38,12 @@ Each week you will write a mini-paper (about 4-5 paragraphs or ~800 words) in wh
 ### Final paper
 The final paper should address one of the topics covered in the class in more detail. Alternatively, it could investigate a topic that was not covered in class. To make sure your paper is headed for success, you should write-up a proposal for your final paper due on TBD (one half page written). Submit via email with the file name lastname-cc-proposal.pdf (brenden@nyu.edu). You can also dicuss your topic with me during office hours. The paper should include a critical review of the literature, along with theoretical conclusions or suggestions for future research. I would expect papers to be about 12 pages long, though the exact length is not as important as the quality of thought the paper reveals. 
 
-## Course discussion  
-We will be using Piazza for the weekly responses to the readings and class discussion.
+## Piazza and course discussion  
+We will be using Piazza to post the weekly responses to the readings, and for class discussion in general.
 
-The signup link for our Piazza page is available here ([https://piazza.com/nyu/spring2019/psychga3405001](https://piazza.com/nyu/spring2019/psychga3405001)).
+The signup link for our Piazza page is available here ([piazza.com/nyu/fall2019/psychga3405001](piazza.com/nyu/fall2019/psychga3405001)).
 
-Once signed up, our class Piazza page is available here ([https://piazza.com/nyu/spring2019/psychga3405001/home](https://piazza.com/nyu/spring2019/psychga3405001/home)).
+Once signed up, our class Piazza page is available here ([https://piazza.com/class/jyuo0qmz3o738c](https://piazza.com/class/jyuo0qmz3o738c)).
 
 ## Course policies
 
