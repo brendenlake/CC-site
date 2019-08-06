@@ -63,7 +63,7 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/cla
 - 11/4 Conceptual development
 - 11/11 How categories influence perception
 - 11/18 Unsupervised, semi-supervised, and active learning
-- 11/25 Conceptual combination
+- 11/25 Conceptual combination and exemplar generation
 - 12/2 TBD
 - 12/9 TBD
 - Final paper proposal due (Wednesday 11/13)
