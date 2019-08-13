@@ -15,7 +15,7 @@ PSYCH-GA 2207 (Psychology)
 Wednesdays 3:50-5:00pm, or by appointment; 6 Washington Place, Room 858
 
 ## Summary
-This course introduces the major topics in the psychology of concepts, focusing on issues of concept representation and use. The first part of the course discusses the main theories of concepts, including the classic view, prototype models, exemplar models, and the knowledge view. We will also spend several weeks discussing computational models that implement these theories, focusing on the neural network and Bayesian modeling traditions. The second part of the course will cover other key topics including taxonomic categories, category-based induction, conceptual development, categorical percpetion, and conceptual combination. The readings will be drawn from the textbook and classic papers in the field. The course will be in a lecture-discussion format. 
+This course introduces the major topics in the psychology of concepts, focusing on issues of concept representation and use. The first part of the course discusses the main theories of concepts, including the classic view, prototype models, exemplar models, and the knowledge view. We will also spend several weeks discussing computational models that implement these theories, focusing on the neural network and probabilistic modeling traditions. The second part of the course will cover other key topics including taxonomic categories, category-based induction, conceptual development, categorical percpetion, and conceptual combination. The readings will be drawn from the textbook and classic papers in the field. The course will be in a lecture-discussion format. 
 
 Please note that this syllabus is not final and there may be further adjustments.
 
@@ -33,17 +33,17 @@ We will be using Greg Murphy's "The Big Book of Concepts" as the textbook for th
 Grading will be based on the response papers (35%) and a final paper (65%). Class participation will be used to decide grades in borderline cases. As we only meet once a week, class attendance is obviously important.
 
 ### Responses to the reading
-Each week you will write a mini-paper (about 4-5 paragraphs or ~800 words) in which you will critique the week's readings, discuss an issue raised by it, or propose a new experiment based on it. The main purpose of these responses is to get you to: 1) do the reading on time so we can talk about it, and 2) think about the reading. In the responses, please focus on what issues are most important or interesting and to think about, and what questions are unresolved in the field. Do not give a list of minor questions or flaws. You may skip one weekly response, but any other missed ones will need to be made up. Post your response to the class Piazza page before class (the night before would be preferred). Your responses will be graded on a check-plus, check, or check-minus basis, with most responses receiving a check.
+Each week you will write a mini-paper (about 4-5 paragraphs or about 800 words) in which you will critique the week's readings, discuss an issue raised by it, or propose a new experiment based on it. The main purpose of these responses is to get you to: 1) do the reading on time so we can talk about it, and 2) think about the reading. In the responses, please focus on what issues are most important or interesting and to think about, and what questions are unresolved in the field. Do not give a list of minor questions or flaws. You may skip one weekly response, but any other missed ones will need to be made up. Post your response to the class Piazza page before class (the night before would be preferred). Your responses will be graded on a check-plus, check, or check-minus basis, with most responses receiving a check.
 
 ### Final paper
 The final paper will be due Monday 12/16. Submit via email with the file name lastname-cc-final.pdf
 
-The final paper should address one of the topics covered in the class in more detail. Alternatively, it could investigate a topic that was not covered in class. To make sure your paper is headed for success, you should write-up a proposal for your final paper due on Wednesday 11/13 (one half page written). Submit via email with the file name lastname-cc-proposal.pdf (brenden@nyu.edu). You can also dicuss your topic with me during office hours. The paper should include a critical review of the literature, along with theoretical conclusions or suggestions for future research. I would expect papers to be about 12 pages long, though the exact length is not as important as the quality of thought the paper reveals. 
+The final paper should address one of the topics covered in the class in more detail. Alternatively, it could investigate a topic that was not covered in class. To make sure your paper is headed for success, you should write a proposal for your final paper due on Wednesday 11/13 (one half page written). Submit via email with the file name lastname-cc-proposal.pdf (brenden@nyu.edu). You can also dicuss your topic with me during office hours. The paper should include a critical review of the literature, along with theoretical conclusions or suggestions for future research. I would expect papers to be about 12 pages long, though the exact length is not as important as the quality of thought the paper reveals. 
 
 ## Piazza and course discussion  
 We will be using Piazza to post the weekly responses to the readings, and for class discussion in general.
 
-The signup link for our Piazza page is available here ([[https://piazza.com/nyu/fall2019/psychga3405001](https://piazza.com/nyu/fall2019/psychga3405001)).
+The signup link for our Piazza page is available here ([https://piazza.com/nyu/fall2019/psychga3405001](https://piazza.com/nyu/fall2019/psychga3405001)).
 
 Once signed up, our class Piazza page is available here ([https://piazza.com/class/jyuo0qmz3o738c](https://piazza.com/class/jyuo0qmz3o738c)).
 
