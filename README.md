@@ -95,8 +95,8 @@ Please see below for the assigned readings for each class (to be read before cla
 - Goodman, N. D., Tenenbaum, J. B., Feldman, J., & Griffiths, T. L. (2008). A rational analysis of rule‐based concept learning. _Cognitive Science_, 32(1), 108-154.
 
 **10/15 (Note special Tuesday time due to Fall recess) Computational models of category learning (part 3)**
+- Heit, E., & Bott, L. (2000). Knowledge selection in category learning. In Psychology of learning and motivation (Vol. 39, pp. 163-199). Academic Press.
 - Rehder, B. (2007). Essentialism as a generative theory of classification. In A. Gopnik, & L. Schultz (Eds.), _Causal learning: Psychology, philosophy, and computation_ (pp. 190-207). Oxford, England: Oxford University Press.
-- Rehder, B., & Murphy, G. L. (2003). A knowledge-resonance (KRES) model of category learning. _Psychonomic Bulletin & Review_, 10(4), 759-784.
 
 **10/21 Taxonomic organization and the basic level**
 - Big Book; Chapter 7
