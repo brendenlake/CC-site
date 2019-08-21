@@ -80,7 +80,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Rosch, E., & Mervis, C. B. (1975). Family resemblances: Studies in the internal structure of categories. _Cognitive Psychology_, 7(4), 573-605.
 - Medin, D. L., & Schaffer, M. M. (1978).  Context theory of classification learning. _Psychological Review_, 85, 207-238.
 
-**9/23 The knowledge view (concepts as theories)**
+**9/23 Concepts as theories and the knowledge view**
 - Big Book; Chapter 6
 - Murphy, G. L., & Medin, D. L. (1985).  The role of theories in conceptual coherence. _Psychological Review_, 92, 289-316.
 - Barsalou, L. W. (1983). Ad hoc categories. _Memory & cognition_, 11(3), 211-227.
