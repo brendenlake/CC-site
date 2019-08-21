@@ -15,7 +15,7 @@ PSYCH-GA 2207 (Psychology)
 Wednesdays 3:50-5:00pm, or by appointment; 6 Washington Place, Room 858
 
 ## Summary
-This course introduces the major topics in the psychology of concepts, focusing on issues of concept representation and use. The first part of the course discusses the main theories of concepts, including the classic view, prototype models, exemplar models, and the knowledge view. We will also spend several weeks discussing computational models that implement these theories, focusing on the neural network and probabilistic modeling traditions. The second part of the course will cover other key topics including taxonomic categories, category-based induction, conceptual development, categorical percpetion, and conceptual combination. The readings will be drawn from the textbook and classic papers in the field. The course will be in a lecture-discussion format. 
+This course introduces the major topics in the psychology of concepts, focusing on issues of concept representation and use. The first part of the course discusses the main theories of concepts, including the classic view, prototype models, exemplar models, and the knowledge view. We will also spend several weeks discussing computational models that implement these theories, focusing on the neural network and probabilistic modeling traditions. The second part of the course will cover other key topics including taxonomic categories, category-based induction, conceptual development, categorical perception, and conceptual combination. The readings will be drawn from the textbook and classic papers in the field. The course will be in a lecture-discussion format. 
 
 Please note that this syllabus is not final and there may be further adjustments.
 
@@ -54,7 +54,7 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/cla
 ## Overview of topics and schedule
 - 9/9 Introduction; the classical view
 - 9/16 Prototype and exemplar theories
-- 9/23 Concepts as theories ("the knowledge view")
+- 9/23 Concepts as theories and the knowledge view
 - 9/30 Computational models of category learning (part 1)
 - 10/7 Computational models of category learning (part 2)
 - 10/15 (Note special Tuesday time due to Fall recess) Computational models of category learning (part 3)
