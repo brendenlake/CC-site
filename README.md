@@ -65,7 +65,7 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/cla
 - 11/18 Unsupervised, semi-supervised, and active learning
 - 11/25 Conceptual combination and exemplar generation
 - 12/2 TBD
-- 12/9 TBD
+- 12/9 No class (Brenden at conference)
 - Final paper proposal due (Wednesday 11/13)
 - Final paper due (Monday 12/16)
 
