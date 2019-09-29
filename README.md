@@ -91,9 +91,9 @@ Please see below for the assigned readings for each class (to be read before cla
 - Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
 
 **10/7 Computational models of category learning (part 2)**
-- Xu, F., & Tenenbaum, J. B. (2007). Word learning as Bayesian inference. Psychological Review, 114(2), 245.
+- Xu, F., & Tenenbaum, J. B. (2007). Word learning as Bayesian inference. _Psychological Review_, 114(2), 245.
 - Goodman, N. D., Tenenbaum, J. B., Feldman, J., & Griffiths, T. L. (2008). A rational analysis of rule‐based concept learning. _Cognitive Science_, 32(1), 108-154.
-- (Option reference on probability) Russel, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 13, Uncertainty.
+- (Optional reference on probability theory) Russel, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 13, Uncertainty.
 
 **10/15 (Note special Tuesday time due to Fall recess) Computational models of category learning (part 3)**
 - Heit, E., & Bott, L. (2000). Knowledge selection in category learning. In Psychology of learning and motivation (Vol. 39, pp. 163-199). Academic Press.
