@@ -63,7 +63,7 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/cla
 - 11/4 Category-based induction
 - 11/11 Concepts in infancy
 - 11/18 Conceptual development
-- 11/25 TBD
+- 11/25 How categories influence perception
 - 12/2 Conceptual combination and exemplar generation
 - 12/9 No class (Brenden at conference)
 - Final paper proposal due (Wednesday 11/13)
@@ -112,29 +112,21 @@ Please see below for the assigned readings for each class (to be read before cla
 - Kemp, C., & Tenenbaum, J. B. (2009). Structured statistical models of inductive reasoning. _Psychological Review_, 116(1), 20.
 
 **11/11 Concepts in infancy**
-- Big Book; Chapters 9
+- Big Book; Chapter 9
 - Mandler, J. M., & McDonough, L. (1993). Concept formation in infancy. _Cognitive Development_, 8, 291-318.
 - Quinn, P. C. (2004). Development of subordinate-level categorization in 3- to 7-month-old infants. _Child Development_, 75, 886-899.
 
 **11/18 Conceptual development**
-- Big Book; Chapters 10
+- Big Book; Chapter 10
 - Markman, E. M. (1989). _Categorization and naming in children: Problems of induction_. Cambridge, MA: MIT Press. (excerpts only)
 - Gelman, S. A. (2003). _The essential child_. Oxford: Oxford University Press. (excerpts only)
 
-<!--
-**11/18 How categories influence perception**
+**11/25 How categories influence perception**
 - Goldstone, R. L., & Hendrickson, A. T. (2010). Categorical perception. _Wiley Interdisciplinary Reviews: Cognitive Science_, 1(1), 69-78.
 - Goldstone, R. L. (1994). Influences of categorization on perceptual discrimination. _Journal of Experimental Psychology: General_, 123(2), 178.
 - Schyns, P. G., & Rodet, L. (1997). Categorization creates functional features. _Journal of Experimental Psychology: Learning, Memory, and Cognition_, 23(3), 681.
-**11/25 Unsupervised, semi-supervised, and active learning**
-- Ashby, F. G., Queller, S., & Berretty, P. M. (1999). On the dominance of unidimensional rules in unsupervised categorization. _Perception & Psychophysics_, 61(6), 1178-1199.
-- Lake, B. M. and McClelland, J. L. (2011). Estimating the strength of unlabeled information during semi-supervised learning. In _Proceedings of the 33rd Annual Conference of the Cognitive Science Society_.
-- Markant, D. B., & Gureckis, T. M. (2014). Is it better to select or to receive? Learning via active and passive hypothesis testing. _Journal of Experimental Psychology: General_, 143(1), 94.
--->
-
-**11/25 TBD**
 
 **12/2 Conceptual combination and exemplar generation**
-- Big Book; Chapter 12
+- Big Book; Chapters 12 and 13
 - Murphy, G. L. (1988). Comprehending complex concepts. _Cognitive Science_, 12(4), 529-562.
 - Ward, T. B. (1994). Structured imagination: The role of category structure in exemplar generation. _Cognitive Psychology_, 27(1), 1-40.
