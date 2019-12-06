@@ -72,61 +72,61 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/cla
 ## Detailed schedule and readings
 Please see below for the assigned readings for each class (to be read before class). Papers are available for download on NYU Classes in the "Resources" folder.
 
-**9/9 Introduction; the classical view** ([lecture_slides/01_introduction.pdf](Slides))
+**9/9 Introduction; the classical view** ([Slides](lecture_slides/01_introduction.pdf))
 - Big Book; Chapter 1
 
-**9/16 Prototype and exemplar theories** ([lecture_slides/02_prototype_exemplar.pdf](Slides))
+**9/16 Prototype and exemplar theories** ([Slides](lecture_slides/02_prototype_exemplar.pdf))
 - Big Book; Chapter 2 and Chapter 3
 - Rosch, E., & Mervis, C. B. (1975). Family resemblances: Studies in the internal structure of categories. _Cognitive Psychology_, 7(4), 573-605.
 - Medin, D. L., & Schaffer, M. M. (1978).  Context theory of classification learning. _Psychological Review_, 85, 207-238.
 
-**9/23 Concepts as theories and the knowledge view** ([lecture_slides/03_knowledge.pdf](Slides))
+**9/23 Concepts as theories and the knowledge view** ([Slides](lecture_slides/03_knowledge.pdf))
 - Big Book; Chapter 4 (pgs. 94-114) and Chapter 6
 - Murphy, G. L., & Medin, D. L. (1985).  The role of theories in conceptual coherence. _Psychological Review_, 92, 289-316.
 - Barsalou, L. W. (1983). Ad hoc categories. _Memory & cognition_, 11(3), 211-227.
 
-**9/30 Computational models of category learning (part 1)** ([lecture_slides/04_models_part1_and_2.pdf](Slides))
+**9/30 Computational models of category learning (part 1)** ([Slides](lecture_slides/04_models_part1_and_2.pdf))
 - Kruschke, J. L. (1992). ALCOVE: An exemplar-based connectionist model of category learning. _Psychological Review_, 99, 22-44.
 
-**10/7 Computational models of category learning (part 2)** ([lecture_slides/04_models_part1_and_2.pdf](Slides))
+**10/7 Computational models of category learning (part 2)** ([Slides](lecture_slides/04_models_part1_and_2.pdf))
 - Anderson, J. R. (1991). The adaptive nature of human categorization. _Psychological Review_, 98(3), 409.
 - Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
 - (Optional reference on probability theory) Russel, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 13, Uncertainty.
 
-**10/15 (Note special Tuesday time due to Fall recess) Computational models of category learning (part 3)** ([lecture_slides/05_models_part3.pdf](Slides))
+**10/15 (Note special Tuesday time due to Fall recess) Computational models of category learning (part 3)** ([Slides](lecture_slides/05_models_part3.pdf))
 - Xu, F., & Tenenbaum, J. B. (2007). Word learning as Bayesian inference. _Psychological Review_, 114(2), 245.
 - Goodman, N. D., Tenenbaum, J. B., Feldman, J., & Griffiths, T. L. (2008). A rational analysis of rule‐based concept learning. _Cognitive Science_, 32(1), 108-154.
 
-**10/21 Computational models of category learning (part 4)** ([lecture_slides/06_models_part4.pdf](Slides))
+**10/21 Computational models of category learning (part 4)** ([Slides](lecture_slides/06_models_part4.pdf))
 - Heit, E., & Bott, L. (2000). Knowledge selection in category learning. In Psychology of learning and motivation (Vol. 39, pp. 163-199). Academic Press.
 - Rehder, B. (2007). Essentialism as a generative theory of classification. In A. Gopnik, & L. Schultz (Eds.), _Causal learning: Psychology, philosophy, and computation_ (pp. 190-207). Oxford, England: Oxford University Press.
 
-**10/28  Taxonomic organization and the basic level** ([lecture_slides/07_basic_level.pdf](Slides))
+**10/28  Taxonomic organization and the basic level** ([Slides](lecture_slides/07_basic_level.pdf))
 - Big Book; Chapter 7
 - Rosch, E., Mervis, C. B., Gray, W. Johnson, D., & Boyes-Braem, P. (1976). Basic objects in natural categories. _Cognitive Psychology_, 8, 382-439.
 - Tanaka, J. W., & Taylor, M. (1991). Object categories and expertise: Is the basic level in the eye of the beholder?. _Cognitive Psychology_, 23(3), 457-482.
 
-**11/4 Category-based induction** ([lecture_slides/08_induction.pdf](Slides))
+**11/4 Category-based induction** ([Slides](lecture_slides/08_induction.pdf))
 - Big Book; Chapter 8
 - Osherson, D. N., Smith, E. E., Wilkie, O., Lopez, A., & Shafir, E. (1990). Category-based induction. _Psychological Review_, 97, 185-200.
 - Kemp, C., & Tenenbaum, J. B. (2009). Structured statistical models of inductive reasoning. _Psychological Review_, 116(1), 20.
 
-**11/11 Concepts in infancy** ([lecture_slides/09_development.pdf](Slides))
+**11/11 Concepts in infancy** ([Slides](lecture_slides/09_development.pdf))
 - Big Book; Chapter 9
 - Mandler, J. M., & McDonough, L. (1993). Concept formation in infancy. _Cognitive Development_, 8, 291-318.
 - Quinn, P. C. (2004). Development of subordinate-level categorization in 3- to 7-month-old infants. _Child Development_, 75, 886-899.
 
-**11/18 Conceptual development** ([lecture_slides/10_development.pdf](Slides))
+**11/18 Conceptual development** ([Slides](lecture_slides/10_development.pdf))
 - Big Book; Chapter 10
 - Markman, E. M. (1989). _Categorization and naming in children: Problems of induction_. Cambridge, MA: MIT Press. (excerpts only)
 - Gelman, S. A. (2003). _The essential child_. Oxford: Oxford University Press. (excerpts only)
 
-**11/25 How categories influence perception** ([lecture_slides/11_perception.pdf](Slides))
+**11/25 How categories influence perception** ([Slides](lecture_slides/11_perception.pdf))
 - Goldstone, R. L., & Hendrickson, A. T. (2010). Categorical perception. _Wiley Interdisciplinary Reviews: Cognitive Science_, 1(1), 69-78.
 - Goldstone, R. L. (1994). Influences of categorization on perceptual discrimination. _Journal of Experimental Psychology: General_, 123(2), 178.
 - Schyns, P. G., & Rodet, L. (1997). Categorization creates functional features. _Journal of Experimental Psychology: Learning, Memory, and Cognition_, 23(3), 681.
 
-**12/2 Conceptual combination and exemplar generation** ([lecture_slides/12_combination.pdf](Slides))
+**12/2 Conceptual combination and exemplar generation** ([Slides](lecture_slides/12_combination.pdf))
 - Big Book; Chapters 12 and 13
 - Murphy, G. L. (1988). Comprehending complex concepts. _Cognitive Science_, 12(4), 529-562.
 - Ward, T. B. (1994). Structured imagination: The role of category structure in exemplar generation. _Cognitive Psychology_, 27(1), 1-40.
