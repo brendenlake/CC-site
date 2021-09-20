@@ -72,10 +72,10 @@ We will be using Edstem to post the weekly responses to the readings, and for cl
 ## Detailed schedule and readings
 Please see below for the assigned readings for each class (to be read before class). Papers are available for download on Brightspace.
 
-**9/13 Introduction; the classical view** [slides](lecture_slides/01_introduction.pdf)
+**9/13 Introduction; the classical view** [(slides)](lecture_slides/01_introduction.pdf)
 - Big Book; Chapter 1
 
-**9/20 Prototype and exemplar theories** [slides](lecture_slides/02_prototype_exemplar.pdf)
+**9/20 Prototype and exemplar theories** [(slides)](lecture_slides/02_prototype_exemplar.pdf)
 - Big Book; Chapter 2 and Chapter 3
 - Rosch, E., & Mervis, C. B. (1975). Family resemblances: Studies in the internal structure of categories. _Cognitive Psychology_, 7(4), 573-605.
 - Medin, D. L., & Schaffer, M. M. (1978).  Context theory of classification learning. _Psychological Review_, 85, 207-238.
