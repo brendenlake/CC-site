@@ -85,7 +85,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Murphy, G. L., & Medin, D. L. (1985).  The role of theories in conceptual coherence. _Psychological Review_, 92, 289-316.
 - Barsalou, L. W. (1983). Ad hoc categories. _Memory & cognition_, 11(3), 211-227.
 
-**10/4 Computational models of category learning (part 1)** 
+**10/4 Computational models of category learning (part 1)** [(slides)](lecture_slides/04_models_part1.pdf)
 - Kruschke, J. L. (1992). ALCOVE: An exemplar-based connectionist model of category learning. _Psychological Review_, 99, 22-44.
 
 **10/12 Computational models of category learning (part 2)** 
