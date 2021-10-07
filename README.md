@@ -55,8 +55,8 @@ We will be using Edstem to post the weekly responses to the readings, and for cl
 - 9/13 Introduction; the classical view
 - 9/20 Prototype and exemplar theories
 - 9/27 Concepts as theories and the knowledge view
-- 10/4 Computational models of category learning (part 1)
-- 10/12 (Note special Tuesday time due to Fall recess) Computational models of category learning (part 2)
+- 10/4 (Note special Tuesday time due to Fall recess) Computational models of category learning (part 1)
+- 10/12 Computational models of category learning (part 2)
 - 10/18  Computational models of category learning (part 3)
 - 10/25 Computational models of category learning (part 4)
 - 11/1 Taxonomic organization and the basic level
