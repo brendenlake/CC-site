@@ -88,7 +88,7 @@ Please see below for the assigned readings for each class (to be read before cla
 **10/4 Computational models of category learning (part 1)** [(slides)](lecture_slides/04_models_part1.pdf)
 - Kruschke, J. L. (1992). ALCOVE: An exemplar-based connectionist model of category learning. _Psychological Review_, 99, 22-44.
 
-**10/12 (Note special Tuesday time due to Fall recess)  Computational models of category learning (part 2)** 
+**10/12 (Note special Tuesday time due to Fall recess)  Computational models of category learning (part 2)**  [(slides)](lecture_slides/models_part1b.pdf)
 - Anderson, J. R. (1991). The adaptive nature of human categorization. _Psychological Review_, 98(3), 409.
 - Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
 - (Optional reference on probability theory) Russel, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 13, Uncertainty.
