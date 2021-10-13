@@ -57,7 +57,7 @@ We will be using Edstem to post the weekly responses to the readings, and for cl
 - 9/27 Concepts as theories and the knowledge view
 - 10/4 Computational models of category learning (part 1)
 - 10/12 (Note special Tuesday time due to Fall recess) Computational models of category learning (part 2)
-- 10/18  Computational models of category learning (part 3)
+- 10/18 Computational models of category learning (part 3)
 - 10/25 Computational models of category learning (part 4)
 - 11/1 Taxonomic organization and the basic level
 - 11/8 Category-based induction
@@ -72,28 +72,28 @@ We will be using Edstem to post the weekly responses to the readings, and for cl
 ## Detailed schedule and readings
 Please see below for the assigned readings for each class (to be read before class). Papers are available for download on Brightspace.
 
-**9/13 Introduction; the classical view** [slides](lecture_slides/01_introduction.pdf)
+**9/13 Introduction; the classical view** [(slides)](lecture_slides/01_introduction.pdf)
 - Big Book; Chapter 1
 
-**9/20 Prototype and exemplar theories** 
+**9/20 Prototype and exemplar theories** [(slides)](lecture_slides/02_prototype_exemplar.pdf)
 - Big Book; Chapter 2 and Chapter 3
 - Rosch, E., & Mervis, C. B. (1975). Family resemblances: Studies in the internal structure of categories. _Cognitive Psychology_, 7(4), 573-605.
 - Medin, D. L., & Schaffer, M. M. (1978).  Context theory of classification learning. _Psychological Review_, 85, 207-238.
 
-**9/27 Concepts as theories and the knowledge view** 
+**9/27 Concepts as theories and the knowledge view** [(slides)](lecture_slides/03_knowledge.pdf)
 - Big Book; Chapter 4 (pgs. 94-114) and Chapter 6
 - Murphy, G. L., & Medin, D. L. (1985).  The role of theories in conceptual coherence. _Psychological Review_, 92, 289-316.
 - Barsalou, L. W. (1983). Ad hoc categories. _Memory & cognition_, 11(3), 211-227.
 
-**10/4 Computational models of category learning (part 1)** 
+**10/4 Computational models of category learning (part 1)** [(slides)](lecture_slides/04_models_part1.pdf)
 - Kruschke, J. L. (1992). ALCOVE: An exemplar-based connectionist model of category learning. _Psychological Review_, 99, 22-44.
 
-**10/12 Computational models of category learning (part 2)** 
+**10/12 (Note special Tuesday time due to Fall recess)  Computational models of category learning (part 2)**  [(slides)](lecture_slides/models_part1b.pdf)
 - Anderson, J. R. (1991). The adaptive nature of human categorization. _Psychological Review_, 98(3), 409.
 - Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
 - (Optional reference on probability theory) Russel, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 13, Uncertainty.
 
-**10/18 (Note special Tuesday time due to Fall recess) Computational models of category learning (part 3)** 
+**10/18 Computational models of category learning (part 3)** 
 - Xu, F., & Tenenbaum, J. B. (2007). Word learning as Bayesian inference. _Psychological Review_, 114(2), 245.
 - Goodman, N. D., Tenenbaum, J. B., Feldman, J., & Griffiths, T. L. (2008). A rational analysis of rule‐based concept learning. _Cognitive Science_, 32(1), 108-154.
 
