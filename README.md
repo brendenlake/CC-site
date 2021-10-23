@@ -97,7 +97,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Xu, F., & Tenenbaum, J. B. (2007). Word learning as Bayesian inference. _Psychological Review_, 114(2), 245.
 - Goodman, N. D., Tenenbaum, J. B., Feldman, J., & Griffiths, T. L. (2008). A rational analysis of rule‐based concept learning. _Cognitive Science_, 32(1), 108-154.
 
-**10/25 Computational models of category learning (part 4)** 
+**10/25 Computational models of category learning (part 4)** [(slides)](lecture_slides/06_models_part4.pdf)
 - Heit, E., & Bott, L. (2000). Knowledge selection in category learning. In Psychology of learning and motivation (Vol. 39, pp. 163-199). Academic Press.
 - Rehder, B. (2007). Essentialism as a generative theory of classification. In A. Gopnik, & L. Schultz (Eds.), _Causal learning: Psychology, philosophy, and computation_ (pp. 190-207). Oxford, England: Oxford University Press.
 
