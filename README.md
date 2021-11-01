@@ -101,7 +101,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Heit, E., & Bott, L. (2000). Knowledge selection in category learning. In Psychology of learning and motivation (Vol. 39, pp. 163-199). Academic Press.
 - Rehder, B. (2007). Essentialism as a generative theory of classification. In A. Gopnik, & L. Schultz (Eds.), _Causal learning: Psychology, philosophy, and computation_ (pp. 190-207). Oxford, England: Oxford University Press.
 
-**11/1  Taxonomic organization and the basic level** 
+**11/1  Taxonomic organization and the basic level**  [(slides)](lecture_slides/07_basic_level.pdf)
 - Big Book; Chapter 7
 - Rosch, E., Mervis, C. B., Gray, W. Johnson, D., & Boyes-Braem, P. (1976). Basic objects in natural categories. _Cognitive Psychology_, 8, 382-439.
 - Tanaka, J. W., & Taylor, M. (1991). Object categories and expertise: Is the basic level in the eye of the beholder?. _Cognitive Psychology_, 23(3), 457-482.
