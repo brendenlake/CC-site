@@ -106,7 +106,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Rosch, E., Mervis, C. B., Gray, W. Johnson, D., & Boyes-Braem, P. (1976). Basic objects in natural categories. _Cognitive Psychology_, 8, 382-439.
 - Tanaka, J. W., & Taylor, M. (1991). Object categories and expertise: Is the basic level in the eye of the beholder?. _Cognitive Psychology_, 23(3), 457-482.
 
-**11/8 Category-based induction** 
+**11/8 Category-based induction** [(slides)](lecture_slides/08_induction.pdf)
 - Big Book; Chapter 8
 - Osherson, D. N., Smith, E. E., Wilkie, O., Lopez, A., & Shafir, E. (1990). Category-based induction. _Psychological Review_, 97, 185-200.
 - Kemp, C., & Tenenbaum, J. B. (2009). Structured statistical models of inductive reasoning. _Psychological Review_, 116(1), 20.
