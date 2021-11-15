@@ -111,7 +111,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Osherson, D. N., Smith, E. E., Wilkie, O., Lopez, A., & Shafir, E. (1990). Category-based induction. _Psychological Review_, 97, 185-200.
 - Kemp, C., & Tenenbaum, J. B. (2009). Structured statistical models of inductive reasoning. _Psychological Review_, 116(1), 20.
 
-**11/15 Concepts in infancy** 
+**11/15 Concepts in infancy** [(slides)](lecture_slides/09_development.pdf)
 - Big Book; Chapter 9
 - Mandler, J. M., & McDonough, L. (1993). Concept formation in infancy. _Cognitive Development_, 8, 291-318.
 - Quinn, P. C. (2004). Development of subordinate-level categorization in 3- to 7-month-old infants. _Child Development_, 75, 886-899.
