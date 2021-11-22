@@ -116,7 +116,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Mandler, J. M., & McDonough, L. (1993). Concept formation in infancy. _Cognitive Development_, 8, 291-318.
 - Quinn, P. C. (2004). Development of subordinate-level categorization in 3- to 7-month-old infants. _Child Development_, 75, 886-899.
 
-**11/22 Conceptual development** 
+**11/22 Conceptual development** [(slides)](lecture_slides/10_development.pdf)
 - Big Book; Chapter 10
 - Markman, E. M. (1989). _Categorization and naming in children: Problems of induction_. Cambridge, MA: MIT Press. (excerpts only)
 - Gelman, S. A. (2003). _The essential child_. Oxford: Oxford University Press. (excerpts only)
