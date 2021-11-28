@@ -121,7 +121,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Markman, E. M. (1989). _Categorization and naming in children: Problems of induction_. Cambridge, MA: MIT Press. (excerpts only)
 - Gelman, S. A. (2003). _The essential child_. Oxford: Oxford University Press. (excerpts only)
 
-**11/29 How categories influence perception** 
+**11/29 How categories influence perception**   [(slides)](lecture_slides/11_perception.pdf)
 - Goldstone, R. L., & Hendrickson, A. T. (2010). Categorical perception. _Wiley Interdisciplinary Reviews: Cognitive Science_, 1(1), 69-78.
 - Goldstone, R. L. (1994). Influences of categorization on perceptual discrimination. _Journal of Experimental Psychology: General_, 123(2), 178.
 - Schyns, P. G., & Rodet, L. (1997). Categorization creates functional features. _Journal of Experimental Psychology: Learning, Memory, and Cognition_, 23(3), 681.
