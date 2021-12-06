@@ -65,7 +65,7 @@ We will be using Edstem to post the weekly responses to the readings, and for cl
 - 11/22 Conceptual development
 - 11/29 How categories influence perception
 - 12/6 Conceptual combination and exemplar generation
-- 12/13 TBD
+- 12/13 Extended office hours / working on papers; meet as usual in room 851
 - Final paper proposal due (Monday 11/15)
 - Final paper due (Thursday 12/16)
 
