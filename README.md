@@ -33,7 +33,7 @@ We will be using Greg Murphy's "The Big Book of Concepts" as the textbook for th
 Grading will be based on the response papers (35%) and a final paper (65%). Class participation will be used to decide grades in borderline cases.
 
 ### Responses to the reading
-Each week you will write a mini-paper (about 4 paragraphs or about 600 words) in which you will critique the week's readings, discuss an issue raised by it, or propose a new experiment based on it. The main purpose of these responses is to get you to: 1) do the reading on time so we can talk about it, and 2) think about the reading. In the responses, please focus on what issues are most important or interesting and to think about, and what questions are unresolved in the field. Do not give a list of minor questions or flaws. You may skip one weekly response, but any other missed ones will need to be made up. Post your response to the class EdStem page before class (the night before would be preferred). Your responses will be graded on a check-plus, check, or check-minus basis, with most responses receiving a check.
+Each week you will write a mini-paper (about 4 paragraphs or about 600 words) in which you will critique the week's readings, discuss an issue raised by it, or propose a new experiment based on it. The main purpose of these responses is to get you to: 1) do the reading on time so we can talk about it, and 2) think about the reading. In the responses, please focus on what issues are most important or interesting and to think about, and what questions are unresolved in the field. Do not give a list of minor questions or flaws. You may skip one weekly response, but any other missed ones will need to be made up. Post your response to the class [EdStem](https://edstem.org/us/courses/45786/discussion/) page before class (the night before would be preferred). Your responses will be graded on a check-plus, check, or check-minus basis, with most responses receiving a check.
 
 ### Final paper
 The final paper will be due Wed. December 13. Submit via email with the file name lastname-cc-final.pdf
@@ -41,8 +41,7 @@ The final paper will be due Wed. December 13. Submit via email with the file nam
 The final paper should address one of the topics covered in the class in more detail. Alternatively, it could investigate a key topic related to concepts/categories that was not covered in class. To make sure your paper is headed for success, you should write a proposal for your final paper due on Monday 11/13 (one half page written). Submit via email with the file name lastname-cc-proposal.pdf (brenden@nyu.edu). You can also discuss your topic with me during office hours. The paper should include a critical review of the literature, along with theoretical conclusions or suggestions for future research. I would expect papers to be about 12 pages long (double spaced), though the exact length is not as important as the quality of thought the paper reveals. In your paper, you should also be sure to connect with and demonstrate your knowledge of the topics covered in class.
 
 ## EdStem and course discussion  
-We will be using Edstem to post the weekly responses to the readings, and for class discussion in general. You can join the class EdStem through this link (TBD).
-<!-- [this link](TBD). -->
+We will be using the class Edstem [here](https://edstem.org/us/courses/45786/discussion/) to post the weekly responses to the readings, and for class discussion in general. If you are registered for the class, you should automatically be added to the class on Edstem. If not, you can join the class EdStem through [this link](https://edstem.org/us/join/M3J8es).
 
 ## Course policies
 
