@@ -61,8 +61,8 @@ We will be using the class Edstem [here](https://edstem.org/us/courses/45786/dis
 - 11/27 How categories influence perception
 - 12/4 Conceptual combination and exemplar generation
 - 12/11 TBD
-- Final paper proposal due (Monday 11/15)
-- Final paper due (Thursday 12/16)
+- Final paper proposal due (Monday 11/13)
+- Final paper due (Wed 12/13)
 
 ## Detailed schedule and readings
 Please see below for the assigned readings for each class (to be read before class). Papers are available for download on Brightspace.
