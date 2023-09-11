@@ -68,7 +68,7 @@ We will be using the class Edstem [here](https://edstem.org/us/courses/45786/dis
 Please see below for the assigned readings for each class (to be read before class). Papers are available for download on Brightspace.
 
 **9/11 Introduction; the classical view** 
-<!-- [(slides)](lecture_slides/01_introduction.pdf) -->
+[(slides)](lecture_slides/01_introduction.pdf)
 - Big Book; Chapter 1
 
 **9/18 Prototype and exemplar theories** 
