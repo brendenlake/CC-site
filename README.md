@@ -14,7 +14,7 @@ Meyer Room 465 (6 Washington Place)
 PSYCH-GA 2207 (Psychology)  
 
 **Office hours**:  
-TBD
+Thursdays 4:30-5:30pm. 6 Washington Place, Room 589. I can also accommodate you on zoom if you let me know in advance.
 
 ## Summary
 This course introduces the major topics in the psychology of concepts, focusing on issues of concept representation and use. The first part of the course discusses the main theories of concepts, including the classic view, prototype models, exemplar models, and the knowledge view. We will also spend several weeks discussing computational models that implement these theories, focusing on the neural network and probabilistic traditions. The second part of the course will cover other key topics including taxonomic categories, category-based induction, conceptual development, categorical perception, and conceptual combination. The readings will be drawn from the textbook and classic papers in the field. The course will be in a lecture-discussion format. 
