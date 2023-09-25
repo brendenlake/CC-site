@@ -78,21 +78,23 @@ Please see below for the assigned readings for each class (to be read before cla
 - Medin, D. L., & Schaffer, M. M. (1978).  Context theory of classification learning. _Psychological Review_, 85, 207-238.
 
 **9/25 Concepts as theories and the knowledge view** 
-<!-- [(slides)](lecture_slides/03_knowledge.pdf) -->
+[(slides)](lecture_slides/03_knowledge.pdf)
 - Big Book; Chapter 4 (pgs. 94-114) and Chapter 6
 - Murphy, G. L., & Medin, D. L. (1985).  The role of theories in conceptual coherence. _Psychological Review_, 92, 289-316.
 - Barsalou, L. W. (1983). Ad hoc categories. _Memory & cognition_, 11(3), 211-227.
 
 **10/2 Computational models of category learning (part 1)** 
-<!-- [(slides)](lecture_slides/04_models_part1.pdf) -->
+[(slides)](lecture_slides/04_models_part1.pdf)
 - Kruschke, J. L. (1992). ALCOVE: An exemplar-based connectionist model of category learning. _Psychological Review_, 99, 22-44.
 
-**10/10 (Note special Tuesday time due to Fall recess)
-<!-- Computational models of category learning (part 2)**  [(slides)](lecture_slides/models_part1b.pdf) -->
+**10/10 (Note special Tuesday time due to Fall recess) Computational models of category learning (part 2)**  
+[(slides)](lecture_slides/models_part1b.pdf)
 - Anderson, J. R. (1991). The adaptive nature of human categorization. _Psychological Review_, 98(3), 409.
 - Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
 - (Optional reference on probability theory) Russel, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 13, Uncertainty.
-**10/16 Computational models of category learning (part 3)** [(slides)](lecture_slides/05_models_part3.pdf)
+
+**10/16 Computational models of category learning (part 3)** 
+[(slides)](lecture_slides/05_models_part3.pdf)
 - Xu, F., & Tenenbaum, J. B. (2007). Word learning as Bayesian inference. _Psychological Review_, 114(2), 245.
 - Goodman, N. D., Tenenbaum, J. B., Feldman, J., & Griffiths, T. L. (2008). A rational analysis of rule‐based concept learning. _Cognitive Science_, 32(1), 108-154.
 
