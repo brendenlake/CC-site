@@ -88,7 +88,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Kruschke, J. L. (1992). ALCOVE: An exemplar-based connectionist model of category learning. _Psychological Review_, 99, 22-44.
 
 **10/10 (Note special Tuesday time due to Fall recess) Computational models of category learning (part 2)**  
-[(slides)](lecture_slides/models_part1b.pdf)
+[(slides)](lecture_slides/04_models_part1.pdf)
 - Anderson, J. R. (1991). The adaptive nature of human categorization. _Psychological Review_, 98(3), 409.
 - Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
 - (Optional reference on probability theory) Russel, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 13, Uncertainty.
@@ -99,37 +99,37 @@ Please see below for the assigned readings for each class (to be read before cla
 - Goodman, N. D., Tenenbaum, J. B., Feldman, J., & Griffiths, T. L. (2008). A rational analysis of rule‐based concept learning. _Cognitive Science_, 32(1), 108-154.
 
 **10/23 Computational models of category learning (part 4)**
-<!-- [(slides)](lecture_slides/06_models_part4.pdf) -->
+[(slides)](lecture_slides/06_models_part4.pdf)
 - Heit, E., & Bott, L. (2000). Knowledge selection in category learning. In Psychology of learning and motivation (Vol. 39, pp. 163-199). Academic Press.
 - Rehder, B. (2007). Essentialism as a generative theory of classification. In A. Gopnik, & L. Schultz (Eds.), _Causal learning: Psychology, philosophy, and computation_ (pp. 190-207). Oxford, England: Oxford University Press.
 
 **10/30  Taxonomic organization and the basic level**
-<!-- [(slides)](lecture_slides/07_basic_level.pdf) -->
+[(slides)](lecture_slides/07_basic_level.pdf)
 - Big Book; Chapter 7
 - Rosch, E., Mervis, C. B., Gray, W. Johnson, D., & Boyes-Braem, P. (1976). Basic objects in natural categories. _Cognitive Psychology_, 8, 382-439.
 - Tanaka, J. W., & Taylor, M. (1991). Object categories and expertise: Is the basic level in the eye of the beholder?. _Cognitive Psychology_, 23(3), 457-482.
 
 
 **11/6 Category-based induction**
-<!-- [(slides)](lecture_slides/08_induction.pdf) -->
+[(slides)](lecture_slides/08_induction.pdf)
 - Big Book; Chapter 8
 - Osherson, D. N., Smith, E. E., Wilkie, O., Lopez, A., & Shafir, E. (1990). Category-based induction. _Psychological Review_, 97, 185-200.
 - Kemp, C., & Tenenbaum, J. B. (2009). Structured statistical models of inductive reasoning. _Psychological Review_, 116(1), 20.
 
 **11/13 Concepts in infancy**
-<!-- [(slides)](lecture_slides/09_development.pdf) -->
+[(slides)](lecture_slides/09_development.pdf)
 - Big Book; Chapter 9
 - Mandler, J. M., & McDonough, L. (1993). Concept formation in infancy. _Cognitive Development_, 8, 291-318.
 - Quinn, P. C. (2004). Development of subordinate-level categorization in 3- to 7-month-old infants. _Child Development_, 75, 886-899.
 
 **11/20 Conceptual development**
-<!-- [(slides)](lecture_slides/10_development.pdf) -->
+[(slides)](lecture_slides/10_development.pdf)
 - Big Book; Chapter 10
 - Markman, E. M. (1989). _Categorization and naming in children: Problems of induction_. Cambridge, MA: MIT Press. (excerpts only)
 - Gelman, S. A. (2003). _The essential child_. Oxford: Oxford University Press. (excerpts only)
 
 **11/27 How categories influence perception** 
-<!-- [(slides)](lecture_slides/11_perception.pdf) -->
+[(slides)](lecture_slides/11_perception.pdf)
 - Goldstone, R. L., & Hendrickson, A. T. (2010). Categorical perception. _Wiley Interdisciplinary Reviews: Cognitive Science_, 1(1), 69-78.
 - Goldstone, R. L. (1994). Influences of categorization on perceptual discrimination. _Journal of Experimental Psychology: General_, 123(2), 178.
 - Schyns, P. G., & Rodet, L. (1997). Categorization creates functional features. _Journal of Experimental Psychology: Learning, Memory, and Cognition_, 23(3), 681.
